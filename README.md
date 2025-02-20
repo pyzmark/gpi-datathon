@@ -7,5 +7,5 @@ If you want to use the notebook, you'll want to setup Jupyter Notebooks in some 
 ### Setting Up
 2. Install Python and Jupyter Notebooks. Realistically, the simplest way to do this is [to install Anaconda](https://www.anaconda.com), which will handle the Python environment, packages, etc. When installing, accept the recommended setup configuration.
 3. [Install Git](https://git-scm.com/downloads). This is a program and is separate from Github (which is an online platform for storing data and coordinating users—not a program). Accept the recommended setup configuration. 
-5. Download Github Desktop. Install and clone our XML Transformer Github repository (https://github.com/pyzmark/gpi-datathon) to your local hard drive (it will probably go to the default location at: ~/Documents/Github/). See here for [instructions on cloning a repo](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
+5. Download Github Desktop. Install and clone this Github repository (https://github.com/pyzmark/gpi-datathon) to your local hard drive (it will probably go to the default location at: ~/Documents/Github/). See here for [instructions on cloning a repo](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop).
 6. You should be all set up.
